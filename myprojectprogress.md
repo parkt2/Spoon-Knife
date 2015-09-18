@@ -1,0 +1,1 @@
+My partner and I have decided to work on an existing project, to improve upon an already existing board game called Dokapon. We have already decided to use an MIT license for the project and are currently in the design phase as to how to improve upon the board game. ie) how to make the game more entertaining and intuitive for players.
